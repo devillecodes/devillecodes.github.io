@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.social {
+  font-size: 2em;
+  color: #ccc;
+  text-decoration: none !important;
+}
+
+.social:hover {
+  color: #fff;
+}
