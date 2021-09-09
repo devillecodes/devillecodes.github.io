@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
 .social {
   font-size: 2em;
   color: #ccc;
