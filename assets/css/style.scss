@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+.gravatar {
+  border-radius: 50%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
