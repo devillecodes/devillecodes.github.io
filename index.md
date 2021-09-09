@@ -1,6 +1,6 @@
 <img src="/assets/images/profile.jpeg" class="gravatar" />
 
-## De Ville Weppenaar
+# De Ville Weppenaar
 
 bio text
 
