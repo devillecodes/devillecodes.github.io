@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## De Ville Weppenaar
 
-You can use the [editor on GitHub](https://github.com/devillexio/devillexio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+bio text
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://twitter.com/devillexio" target="_blank" rel="noopener noreferrer" class="social">
+  <img src="/assets/images/twitter.svg" alt="De Ville Weppenaar on Twitter">
+</a>
