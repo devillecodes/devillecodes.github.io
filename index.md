@@ -2,7 +2,7 @@
 
 # De Ville Weppenaar
 
-Code crafter, automation advocate, guitar geek, passive photographer, sporadic scribe, amateur ailurophile, alliteration addict.
+Software sage, automation advocate, amateur ailurophile, alliteration addict.
 
 <p class="lead">
   <a href="https://twitter.com/devillexio" target="_blank" rel="noopener noreferrer" class="social">
