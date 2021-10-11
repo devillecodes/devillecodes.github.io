@@ -2,7 +2,7 @@
 
 # De Ville Weppenaar
 
-Software sage, automation advocate, amateur ailurophile, alliteration addict.
+Software sage, automation advocate, amateur ailurophile, alliteration aficianado.
 
 <p class="lead">
   <a href="https://twitter.com/devillexio" target="_blank" rel="noopener noreferrer" class="social">
