@@ -1,4 +1,4 @@
-<img src="/assets/images/profile.jpeg" alt="De Ville Weppenaar portrait with trees in the background" class="gravatar" />
+<img src="/assets/images/profile.jpeg" alt="De Ville Weppenaar against bridge railing with trees in the background" class="gravatar" />
 
 # De Ville Weppenaar
 
