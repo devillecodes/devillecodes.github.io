@@ -2,7 +2,7 @@
 
 # De Ville Weppenaar
 
-Software Engineer. Husband. Cat Dad. Born in South Africa. Living the Canadian Dream.
+Husband. Cat Dad. Born in South Africa. Living in Canada.
 
 <p class="lead">
   <a href="https://twitter.com/devillecodes" aria-label="Twitter" target="_blank" rel="noopener noreferrer" class="social"><i class="fab fa-twitter"></i></a><!--
