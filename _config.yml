@@ -3,3 +3,4 @@ github:
   is_project_page: false
 title: De Ville Weppenaar
 description: deville.codes
+include: [".well-known"]
