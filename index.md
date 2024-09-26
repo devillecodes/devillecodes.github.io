@@ -1,4 +1,4 @@
-<img src="/assets/images/profile.jpeg" alt="De Ville Weppenaar against bridge railing with trees in the background" class="gravatar" />
+<img src="/assets/images/profile.jpeg" alt="A portrait shot of De Ville Weppenaar from the shoulders up wearing a cap standing in front of a background of folliage and red flowers." class="gravatar" />
 
 # De Ville Weppenaar
 
